@@ -1,0 +1,135 @@
+{
+  "projects": [
+    {
+      "projlink": "https://mahitaprofile.vercel.app/",
+      "projimage": "../images/newprofile.png",
+      "projtitle": "My Porfolio",
+      "projdescription": "My own portfolio to showcase my work.",
+      "projgit": "https://github.com/mahita098/mahitaramgolam-portfolio",
+      "projtags": ["ReactJS", "TailwindCSS", "ChakraUI", "DaisyUI", "Vite"]
+    },
+    {
+      "projlink": "https://meowmuscles.vercel.app/",
+      "projimage": "../images/meowmuscles.png",
+      "projtitle": "Meow Muscles",
+      "projdescription": "Workouts for women that want to gain weight and tone up.",
+      "projgit": "https://github.com/mahita098/weight-gain-path",
+      "projtags": ["NextJS", "TailwindCSS", "TailwindUI"]
+    },
+    {
+      "projlink": "https://meteo-maurice.vercel.app/",
+      "projimage": "../images/meteomaurice.png",
+      "projtitle": "Meteo Maurice",
+      "projdescription": "Mauritius Weather forecast for the week, data from Meteo Mauritius.",
+      "projgit": "https://github.com/mahita098/meteo-maurice",
+      "projtags": ["NextJS", "TailwindCSS", "API"]
+    },
+    {
+      "projlink": "https://mahitaramgolam.netlify.app",
+      "projimage": "../images/2ndportfolio.png",
+      "projtitle": "My Old Porfolio",
+      "projdescription": "Build with only Html/Css/Js",
+      "projgit": "https://github.com/mahita098/mahita-portfolio",
+      "projtags": ["Html", "Css", "Javascript"]
+    },
+    {
+      "projlink": "https://to-do-list-hooks.vercel.app/",
+      "projimage": "../images/todolist.png",
+      "projtitle": "TodoList",
+      "projdescription": "Build a todo list app while learning CRUD.",
+      "projgit": "https://github.com/mahita098/to-do-list-hooks",
+      "projtags": ["ReactJS", "TailwindCSS", "Vite"]
+    },
+
+    {
+      "projlink": "https://investment-calculator-livid-two.vercel.app/",
+      "projimage": "../images/inv-calculator.png",
+      "projtitle": "Investment calculator",
+      "projdescription": "Learning Two way bindings from Udemy - please excuse the design 🙄",
+      "projgit": "https://github.com/mahita098/investment-calculator",
+      "projtags": ["NextJS", "TailwindCSS"]
+    },
+
+    {
+      "projlink": "https://catfacts-olive.vercel.app",
+      "projimage": "../images/catfacts.png",
+      "projtitle": "Cat Facts",
+      "projdescription": "Learning APIs - Now you can Generate some fun cat Facts",
+      "projgit": "https://github.com/mahita098/cats-api",
+      "projtags": ["ReactJS", "TailwindCSS"]
+    },
+    {
+      "projlink": "https://figma-landing-page-figma.netlify.app/",
+      "projimage": "../images/figmalandingpage.png",
+      "projtitle": "A pretty corporate website",
+      "projdescription": "Build this website as a test for a company i was being interviewed",
+      "projgit": "https://github.com/mahita098/test-frontend-landing-page",
+      "projtags": ["HTML", "SCSS", "Bootstrap", "Static"]
+    },
+    {
+      "projlink": "https://web-test-mahi.netlify.app/",
+      "projimage": "../images/web-test.png",
+      "projtitle": "A pretty business website",
+      "projdescription": "Build this website as a test for a company i was being interviewed",
+      "projgit": "https://github.com/mahita098/web-test",
+      "projtags": ["Static", "HTML", "SCSS", "JS"]
+    },
+    {
+      "projlink": "https://power-outage-somewhere.netlify.app/",
+      "projimage": "../images/Power Outage.png",
+      "projtitle": "Learning TailwindCSS",
+      "projdescription": "Build while learning TailwindCSS",
+      "projgit": "https://github.com/mahita098/power-outage-somewhere",
+      "projtags": ["TailwindCSS", "Static"]
+    },
+
+    {
+      "projlink": "https://office-ag.netlify.app/",
+      "projimage": "../images/office-ag.png",
+      "projtitle": "An agency website",
+      "projdescription": "Learning how to build website while focusing on Flexbox and Grid",
+      "projgit": "https://github.com/mahita098/office-ag",
+      "projtags": ["Html", "CSS", "JS", "Carousels"]
+    },
+    {
+      "projlink": "invoices-work.netlify.app",
+      "projimage": "../images/invoices.png",
+      "projtitle": "An Invoice",
+      "projdescription": "Just an invoice using html css",
+      "projgit": "https://github.com/mahita098/invoices",
+      "projtags": ["HTML", "CSS", "Static"]
+    },
+    {
+      "projlink": "https://xyzab-page.netlify.app/",
+      "projimage": "../images/project1.png",
+      "projtitle": "XYZAB",
+      "projdescription": "Building for practicing, i was so proud of myself 😂",
+      "projgit": "https://github.com/mahita098/xyzab",
+      "projtags": ["HTML", "Css", "Not Responsive", "2022"]
+    },
+    {
+      "projlink": "https://google-homepage-phi-lac.vercel.app/",
+      "projimage": "../images/google.png",
+      "projtitle": "Google Homepage!",
+      "projdescription": "Homework- build google homepage",
+      "projgit": "https://github.com/mahita098/Google-Homepage",
+      "projtags": ["HTML", "CSS"]
+    },
+    {
+      "projlink": "https://twitter-upcode-challenge.netlify.app/",
+      "projimage": "../images/mahi-twitter.png",
+      "projtitle": "Tried Twitter!",
+      "projdescription": "Upcode practice work - build twitter timeline",
+      "projgit": "https://github.com/mahita098/twitter-page-upcode",
+      "projtags": ["HTML", "CSS", "Upcode.mu"]
+    },
+    {
+      "projlink": "https://mahitaramgolam.netlify.app/projects",
+      "projimage": "../images/practice.jpg",
+      "projtitle": "More Beginner Projects",
+      "projdescription": "In my old portfolio you can find many more project i build to pratice my html/css",
+
+      "projtags": ["Practice", "Building", "Coding"]
+    }
+  ]
+}
