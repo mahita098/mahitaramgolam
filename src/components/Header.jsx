@@ -49,9 +49,9 @@ export default function Header() {
               <a>Event</a>
             </li> */}
 
-            <li>
-              <label class="flex cursor-pointer gap-2">
-                <span class="label-text">Theme</span>
+            {/* <li>
+              <label className="flex cursor-pointer gap-2">
+                <span className="label-text">Theme</span>
                 <input
                   onClick={() =>
                     document.documentElement.setAttribute(
@@ -61,11 +61,11 @@ export default function Header() {
                   }
                   type="checkbox"
                   value="forest"
-                  class="toggle theme-controller"
+                  className="toggle theme-controller"
                 />
-                <span class="label-text">Forest</span>
+                <span className="label-text">Forest</span>
               </label>
-            </li>
+            </li> */}
           </ul>
         </div>
         <a href="/" className="btn btn-ghost text-xl">
@@ -87,7 +87,7 @@ export default function Header() {
                   viewBox="0 0 24 24"
                   stroke-width="1.5"
                   stroke="currentColor"
-                  class="size-4"
+                  className="size-4"
                 >
                   <path
                     stroke-linecap="round"
@@ -114,13 +114,13 @@ export default function Header() {
             <a href="events">Events</a>
           </li> */}
           <li>
-            <div class="dropdown m-0 p-0">
-              <div tabindex="0" role="button" class="btn h-0 min-h-9">
+            <div className="dropdown m-0 p-0">
+              <div tabIndex="0" role="button" className="btn h-0 min-h-9">
                 Theme
                 <svg
                   width="12px"
                   height="12px"
-                  class="inline-block h-2 w-2 fill-current opacity-60"
+                  className="inline-block h-2 w-2 fill-current opacity-60"
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 2048 2048"
                 >
@@ -128,14 +128,14 @@ export default function Header() {
                 </svg>
               </div>
               <ul
-                tabindex="0"
-                class="dropdown-content bg-base-300 rounded-box z-[1] w-52 p-2 shadow-2xl top-12"
+                tabIndex="0"
+                className="dropdown-content bg-base-300 rounded-box z-[1] w-52 p-2 shadow-2xl top-12"
               >
                 <li>
                   <input
                     type="radio"
                     name="theme-dropdown"
-                    class="theme-controller btn btn-sm btn-block btn-ghost justify-start"
+                    className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                     aria-label="Default"
                     value="default"
                   />
@@ -144,7 +144,7 @@ export default function Header() {
                   <input
                     type="radio"
                     name="theme-dropdown"
-                    class="theme-controller btn btn-sm btn-block btn-ghost justify-start"
+                    className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                     aria-label="Night"
                     value="night"
                   />
@@ -154,7 +154,7 @@ export default function Header() {
                   <input
                     type="radio"
                     name="theme-dropdown"
-                    class="theme-controller btn btn-sm btn-block btn-ghost justify-start"
+                    className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                     aria-label="Forest"
                     value="forest"
                   />
@@ -163,7 +163,7 @@ export default function Header() {
                   <input
                     type="radio"
                     name="theme-dropdown"
-                    class="theme-controller btn btn-sm btn-block btn-ghost justify-start"
+                    className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                     aria-label="Coffee"
                     value="coffee"
                   />
